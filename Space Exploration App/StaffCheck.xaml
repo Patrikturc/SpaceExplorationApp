@@ -1,0 +1,23 @@
+﻿<Window x:Class="Space_Exploration_App.StaffCheck"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Space_Exploration_App"
+        mc:Ignorable="d"
+        Title="StaffCheck" Height="253.049" Width="331.755">
+    <Window.Background>
+        <ImageBrush ImageSource="pulsar.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Label Content="This is a security precaution, &#xD;&#xA;please enter login to confirm you are a member of staff" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="314" Foreground="White"/>
+        <TextBox x:Name="txtLogin" HorizontalAlignment="Left" Height="24" Margin="10,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Staff Login" HorizontalAlignment="Left" Margin="10,64,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="txtPw" HorizontalAlignment="Left" Height="23" Margin="158,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnConfirm" Content="Confirm" HorizontalAlignment="Left" Margin="10,119,0,0" VerticalAlignment="Top" Width="75" Click="btnConfirm_Click" Background="#7F000000" BorderBrush="White" Foreground="White"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="158,64,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Button x:Name="btnHint" Content="Hint for Pete" HorizontalAlignment="Left" Margin="98,192,0,0" VerticalAlignment="Top" Width="120" Click="btnHint_Click" Foreground="White" BorderBrush="White" Background="#7F000000"/>
+        <Label Content="Read Me!" HorizontalAlignment="Left" Margin="128,166,0,0" VerticalAlignment="Top" Foreground="White"/>
+
+    </Grid>
+</Window>

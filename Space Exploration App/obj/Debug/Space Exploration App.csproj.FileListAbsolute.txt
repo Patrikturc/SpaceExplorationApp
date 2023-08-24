@@ -1,0 +1,154 @@
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csprojAssemblyReference.cache
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\App.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.cache
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.lref
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe.config
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.pdb
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.baml
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.baml
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.g.resources
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Space_Exploration_App.Properties.Resources.resources
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csproj.GenerateResource.cache
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.exe
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.pdb
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Login.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\Login.baml
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.baml
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.baml
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.baml
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.baml
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.baml
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.g.cs
+C:\Users\44797\OneDrive - New College Lanarkshire\Motherwell\Pete\Graded Unit\Code\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csprojAssemblyReference.cache
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Login.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\App.g.cs
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.cache
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.lref
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.exe
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.pdb
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe.config
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.pdb
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Login.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.baml
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.g.resources
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Space_Exploration_App.Properties.Resources.resources
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csproj.GenerateResource.cache
+E:\College\Pete\Graded unit\Change id to name\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_Content.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe.config
+D:\fo patko\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe
+D:\fo patko\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.pdb
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csprojAssemblyReference.cache
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Login.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\App.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_Content.g.cs
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.cache
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.lref
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.baml
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.baml
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.baml
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Login.baml
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.baml
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.baml
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.baml
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.baml
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.baml
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.g.resources
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Space_Exploration_App.Properties.Resources.resources
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csproj.GenerateResource.cache
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.exe
+D:\fo patko\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.pdb
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe.config
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.pdb
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csprojAssemblyReference.cache
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Login.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\App.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_Content.g.cs
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.cache
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.lref
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.baml
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.baml
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.baml
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Login.baml
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.baml
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.baml
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.baml
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.baml
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.baml
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.g.resources
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Space_Exploration_App.Properties.Resources.resources
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csproj.GenerateResource.cache
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.exe
+E:\College\Pete\Graded unit\after nibs bugs\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.pdb
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe.config
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.exe
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\bin\Debug\Space Exploration App.pdb
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csprojAssemblyReference.cache
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Login.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\App.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_Content.g.cs
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.cache
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App_MarkupCompile.lref
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\AddPerson.baml
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\AddPlanets.baml
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\CreateStarSystem.baml
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Login.baml
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\MainWindow.baml
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\ManagerView.baml
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\ResearcherView.baml
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\StaffCheck.baml
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\VisitorView.baml
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.g.resources
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Space_Exploration_App.Properties.Resources.resources
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.csproj.GenerateResource.cache
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.exe
+E:\College\Pete\Graded unit\Final work\Space Exploration App\Space Exploration App\obj\Debug\Space Exploration App.pdb

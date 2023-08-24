@@ -1,0 +1,23 @@
+﻿<Window x:Class="Space_Exploration_App.CreateStarSystem"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Space_Exploration_App"
+        mc:Ignorable="d"
+        Title="CreateStarSystem" Height="232.724" Width="317.64">
+    <Window.Background>
+        <ImageBrush ImageSource="star System.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Button x:Name="btnAddStar" Content="Add Star" HorizontalAlignment="Left" Margin="216,93,0,0" VerticalAlignment="Top" Width="84" Click="btnAddStar_Click" Background="#7F000000" BorderBrush="White" Foreground="White"/>
+        <Label Content="Star name" HorizontalAlignment="Left" Margin="11,10,0,0" VerticalAlignment="Top" Foreground="White" Background="Black" Width="141"/>
+        <TextBox x:Name="txtStarName" HorizontalAlignment="Left" Height="23" Margin="180,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Temperature of star(K)" HorizontalAlignment="Left" Margin="11,36,0,0" VerticalAlignment="Top" Foreground="White" Background="Black" Width="141"/>
+        <TextBox x:Name="txtTemp" HorizontalAlignment="Left" Height="23" Margin="180,37,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Distance from Earth(ly)" HorizontalAlignment="Left" Margin="11,62,0,0" VerticalAlignment="Top" Foreground="White" Background="#FF0E0E0E" Width="141"/>
+        <TextBox x:Name="txtDist" HorizontalAlignment="Left" Height="23" Margin="180,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnReturn" Content="Back" HorizontalAlignment="Left" Margin="216,172,0,0" VerticalAlignment="Top" Width="84" Click="btnReturn_Click" Background="#7F000000" BorderBrush="White" Foreground="White"/>
+
+    </Grid>
+</Window>
